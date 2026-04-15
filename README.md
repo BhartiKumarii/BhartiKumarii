@@ -92,8 +92,6 @@ Terminal-based e-commerce system with customer and admin functionalities.
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BhartiKumarii&theme=radical)
 
-![Code Review Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BhartiKumarii&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BhartiKumarii&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BhartiKumarii&theme=radical)
