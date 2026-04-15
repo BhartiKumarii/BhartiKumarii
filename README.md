@@ -2,7 +2,7 @@
 
 🎓 BTech CSE (2nd Year)  
 🤖 AI/ML Enthusiast | 💻 Full-Stack Developer  
-🚀 Building real-world AI systems that solve practical problems  
+🚀 Passionate about AI, Machine Learning, and creating solutions that solve real problems.. Currently learning and Building intelligent systems and learning modern technologies. 
 
 ---
 
