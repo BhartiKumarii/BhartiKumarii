@@ -37,7 +37,7 @@ AI system for detecting harmful and suspicious content.
 AI-based resume builder for multi-language users.
 
 - 🎤 Voice input support  
-- 🌍 13+ languages  
+- 🌍 Multi languages  
 - 🤖 AI suggestions (Gemini)  
 
 🔗 https://github.com/BhartiKumarii/RESUME_BUILDER_AI  
