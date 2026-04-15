@@ -68,11 +68,10 @@ Terminal-based e-commerce system with customer and admin functionalities.
 ---
 
 ## 🎯 Currently Learning
-
 - Advanced Machine Learning  
 - LLM Applications (RAG, Agents)  
-- System Design & Scalable APIs  
-
+- System Design & Scalable APIs
+🔗 https://github.com/BhartiKumarii/TIL (TODAY I LEARNED)
 ---
 
 ## 🤝 Connect With Me
