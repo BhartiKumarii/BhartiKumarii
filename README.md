@@ -1,4 +1,4 @@
-# ��� Hi, I'm Bharti Kumari
+# 👋 Hi, I'm Bharti Kumari
 
 🎓 BTech CSE (2nd Year)  
 🤖 AI/ML Enthusiast | 💻 Full-Stack Developer  
@@ -11,7 +11,7 @@
 ### 🚚 RaahDarshi AI — Logistics Delay Prediction Platform
 AI-powered system that predicts shipment delays 48–72 hours in advance using real-time data.
 
-- 🤖 Machine Learning (Scikit-learn,xgboost)
+- 🤖 Machine Learning (Scikit-learn)
 - 🌐 Live data (traffic, weather, news)
 - 📦 Multi-modal: Road, Air, Sea
 - ⚡ 14 production-ready features  
@@ -37,7 +37,7 @@ AI system for detecting harmful and suspicious content.
 AI-based resume builder for multi-language users.
 
 - 🎤 Voice input support  
-- 🌍 Multi languages  
+- 🌍 13+ languages  
 - 🤖 AI suggestions (Gemini)  
 
 🔗 https://github.com/BhartiKumarii/RESUME_BUILDER_AI  
@@ -69,7 +69,7 @@ Terminal-based e-commerce system with customer and admin functionalities.
 
 ## 🎯 Currently Learning
 
-- Advanced Machine Learning, Deep Learning  
+- Advanced Machine Learning  
 - LLM Applications (RAG, Agents)  
 - System Design & Scalable APIs  
 
@@ -95,16 +95,6 @@ Terminal-based e-commerce system with customer and admin functionalities.
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BhartiKumarii&theme=radical)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BhartiKumarii&theme=react-dark)
-
----
-
-## 📝 Note on Contributions
-
-If your contribution graph shows zero activity, verify:
-- ✅ Git email matches your GitHub account email: `git config user.email`
-- ✅ All commit emails are added to your GitHub account (Settings → Emails)
-- ✅ Commits are on public branches, not private repositories
-- ✅ Account visibility includes public contributions
 
 ---
 
