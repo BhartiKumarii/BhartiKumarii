@@ -86,9 +86,13 @@ Terminal-based e-commerce system with customer and admin functionalities.
 
 ---
 
-## 📊 GitHub Stats
 
-![Bharti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhartiKumarii&show_icons=true&theme=radical&count_private=true)
+
+## 📊 Contribution Insights
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BhartiKumarii&theme=radical)
+
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BhartiKumarii&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BhartiKumarii&layout=compact&theme=radical)
 
