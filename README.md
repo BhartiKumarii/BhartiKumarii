@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bharti Kumari
+# ��� Hi, I'm Bharti Kumari
 
 🎓 BTech CSE (2nd Year)  
 🤖 AI/ML Enthusiast | 💻 Full-Stack Developer  
@@ -69,7 +69,7 @@ Terminal-based e-commerce system with customer and admin functionalities.
 
 ## 🎯 Currently Learning
 
-- Advanced Machine Learning  ,deep learning 
+- Advanced Machine Learning, Deep Learning  
 - LLM Applications (RAG, Agents)  
 - System Design & Scalable APIs  
 
@@ -95,6 +95,16 @@ Terminal-based e-commerce system with customer and admin functionalities.
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BhartiKumarii&theme=radical)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BhartiKumarii&theme=react-dark)
+
+---
+
+## 📝 Note on Contributions
+
+If your contribution graph shows zero activity, verify:
+- ✅ Git email matches your GitHub account email: `git config user.email`
+- ✅ All commit emails are added to your GitHub account (Settings → Emails)
+- ✅ Commits are on public branches, not private repositories
+- ✅ Account visibility includes public contributions
 
 ---
 
