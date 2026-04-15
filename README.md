@@ -11,7 +11,7 @@
 ### 🚚 RaahDarshi AI — Logistics Delay Prediction Platform
 AI-powered system that predicts shipment delays 48–72 hours in advance using real-time data.
 
-- 🤖 Machine Learning (Random Forest)
+- 🤖 Machine Learning (Scikit-learn,xgboost)
 - 🌐 Live data (traffic, weather, news)
 - 📦 Multi-modal: Road, Air, Sea
 - ⚡ 14 production-ready features  
