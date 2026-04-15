@@ -261,8 +261,11 @@ Code
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-@BhartiKumarii-black?style=for-the-badge&logo=github)](https://github.com/BhartiKumarii)
-[![Email](https://img.shields.io/badge/Email-bharti%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:bharti@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bharti%20Kumari-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bharti-kumari)
+[![Email](https://img.shields.io/badge/Email-bhartiv12301%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:bhartiv12301@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bharti%20Kumari-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bharti-kumarii)
+[![X (Twitter)](https://img.shields.io/badge/X-@Bharti_Kumari_-black?style=for-the-badge&logo=twitter)](https://x.com/Bharti_Kumari_)
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-Bharti%20Kumari-blue?style=for-the-badge&logo=kaggle)](https://kaggle.com/bhartikumarii)
 
 </div>
 
@@ -319,9 +322,6 @@ Code
 
 *"Learning, Building, and Growing Every Day"*
 
-⭐ **If you find my projects useful, please give them a star!** ⭐
-
-Made with ❤️ by **Bharti Kumari**
 
 </div>
 
