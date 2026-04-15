@@ -59,7 +59,7 @@ Terminal-based e-commerce system with customer and admin functionalities.
 ## 🧠 Skills
 
 **Languages:** Python, JavaScript, SQL, C  
-**AI/ML:** Scikit-learn, NLP, LangChain, LLMs  
+**AI/ML:** Scikit-learn, LangChain, LLMs  
 **Backend:** FastAPI, Flask  
 **Frontend:** HTML, CSS, JavaScript  
 **Database:** MySQL  
@@ -69,7 +69,7 @@ Terminal-based e-commerce system with customer and admin functionalities.
 
 ## 🎯 Currently Learning
 
-- Advanced Machine Learning  
+- Advanced Machine Learning  ,deep learning 
 - LLM Applications (RAG, Agents)  
 - System Design & Scalable APIs  
 
