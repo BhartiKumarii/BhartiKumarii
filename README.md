@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Bharti Kumari
 
-🎓 BTech CSE (2nd Year)  
-🤖 AI/ML Enthusiast | 💻 Full-Stack Developer  
+🎓 BTech CSE (3rd Year)  
+🤖 AI/ML Enthusiast | 💻 Full-Stack Developer | RAG | LLM 
 🚀 Passionate about AI, Machine Learning, and creating solutions that solve real problems.. Currently learning and Building intelligent systems and learning modern technologies. 
 
 ---
@@ -73,6 +73,8 @@ Terminal-based e-commerce system with customer and admin functionalities.
 - System Design & Scalable APIs
 - 🔗 https://github.com/BhartiKumarii/TIL (TODAY I LEARNED)
 - 🔗 https://github.com/BhartiKumarii/LLM
+- - 🔗 https://github.com/BhartiKumarii/RAG
+
 ---
 
 ## 🤝 Connect With Me
