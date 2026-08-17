@@ -93,11 +93,6 @@ Terminal-based e-commerce system (Class 12 final project) with separate customer
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BhartiKumarii&show_icons=true&theme=chartreuse-dark&bg_color=000000&hide_border=true&icon_color=00FF41&title_color=00FF41&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=BhartiKumarii&theme=github-dark-blue&background=000000&border=00000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BhartiKumarii&theme=react-dark&bg_color=000000&color=00FF41&line=00FF41&point=ffffff&hide_border=true)
 
 </div>
