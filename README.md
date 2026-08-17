@@ -2,8 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Bharti+%F0%9F%91%8B;AI%2FML+Enthusiast+%7C+Full-Stack+Dev;Building+RAG+%26+LLM-powered+systems;BTech+CSE+%C2%B7+3rd+Year" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=BhartiKumarii&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
-[![Followers](https://img.shields.io/github/followers/BhartiKumarii?label=FOLLOWERS&style=flat-square&color=00ff41&labelColor=000000)](https://github.com/BhartiKumarii?tab=followers)
+
 
 </div>
 
