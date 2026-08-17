@@ -93,6 +93,8 @@ Terminal-based e-commerce system (Class 12 final project) with separate customer
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BhartiKumarii&theme=react-dark&bg_color=000000&color=00FF41&line=00FF41&point=ffffff&hide_border=true)
 
 </div>
@@ -105,6 +107,18 @@ Terminal-based e-commerce system (Class 12 final project) with separate customer
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BhartiKumarii/BhartiKumarii/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BhartiKumarii/BhartiKumarii/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BhartiKumarii/BhartiKumarii/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+## 👾 Contribution Pac-Man
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BhartiKumarii/BhartiKumarii/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BhartiKumarii/BhartiKumarii/output/pacman-contribution-graph.svg" />
+  <img alt="pacman contribution graph animation" src="https://raw.githubusercontent.com/BhartiKumarii/BhartiKumarii/output/pacman-contribution-graph.svg" />
 </picture>
 
 </div>
