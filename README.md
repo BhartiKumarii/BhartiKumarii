@@ -29,45 +29,35 @@ $ status --current
 <td width="50%" valign="top">
 
 ### 🚚 [RaahDarshi AI](https://github.com/BhartiKumarii/RAAHDARSHII)
-Logistics delay prediction platform — predicts shipment delays 48–72 hrs in advance using real-time data.
+Logistics risk intelligence platform — predicts shipment delays 48–72 hrs ahead by fusing live traffic, weather, and news signals, across road/air/sea shipments.
 
-- 🤖 Machine Learning (Scikit-learn)
-- 🌐 Live traffic / weather / news data
-- 📦 Multi-modal: Road, Air, Sea
-- ⚡ 14 production-ready features
-- 🚀 **[Live Demo →](https://raahdarshii.vercel.app/)**
+`FastAPI` `MySQL` `scikit-learn (RandomForest)` `JWT auth` `Leaflet` `n8n` · [Live →](https://raahdarshii.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛡️ [SentinelAI](https://github.com/BhartiKumarii/SENTINEL_AI)
-AI-powered threat intelligence platform for detecting harmful and suspicious content.
+Threat-intelligence and content-analysis platform — layered pattern-matching engine optionally enhanced with Claude for contextual reasoning, plus a live monitoring dashboard.
 
-- 🧠 AI-powered analysis (Claude API)
-- 📊 Real-time monitoring dashboard
-- 🔐 Privacy-focused design
+`Python` `Streamlit` `Anthropic Claude API` `Docker` — privacy-first: in-memory processing, PII anonymization, no persistent storage.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📄 [Resume Builder AI](https://github.com/BhartiKumarii/RESUME_BUILDER_AI)
-AI-based resume builder for multi-language users.
+### 📄 Resume Builder AI *(private repo)*
+Multi-profession AI resume builder with voice-driven data entry, OTP-based signup, and auto-translated output.
 
-- 🎤 Voice input support
-- 🌍 13+ languages
-- 🤖 AI suggestions (Gemini)
+`Flask` `MySQL` `Google Gemini` `Twilio SMS` `SpeechRecognition` `deep-translator`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛒 [Online Shopping System](https://github.com/BhartiKumarii/online-shopping-system)
-Terminal-based e-commerce system with customer and admin functionalities.
+Terminal-based e-commerce system (Class 12 final project) with separate customer and admin flows.
 
-- 👤 Customer & Admin roles
-- 🛒 Shopping cart & order system
-- 💳 Multiple payment options
+`Python` `MySQL` `mysql-connector-python` `tabulate`
 
 </td>
 </tr>
@@ -77,10 +67,20 @@ Terminal-based e-commerce system with customer and admin functionalities.
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=python,js,html,css,c,mysql,flask,fastapi,git,docker,vercel&theme=dark)
+**Languages**
+![Skills](https://skillicons.dev/icons?i=python,js,c,html,css,mysql&theme=dark)
 
-**AI/ML:** ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=00FF41) ![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat-square&logo=langchain&logoColor=00FF41) ![LLMs](https://img.shields.io/badge/-LLMs-000000?style=flat-square&logoColor=00FF41)
-**Tools:** ![Railway](https://img.shields.io/badge/-Railway-000000?style=flat-square&logo=railway&logoColor=00FF41) ![N8N](https://img.shields.io/badge/-N8N-000000?style=flat-square&logo=n8n&logoColor=00FF41)
+**Backend & Frameworks**
+![Skills](https://skillicons.dev/icons?i=fastapi,flask,nodejs,express&theme=dark)
+
+**AI / ML**
+![Claude](https://img.shields.io/badge/-Claude_API-000000?style=flat-square&logo=anthropic&logoColor=00FF41) ![Gemini](https://img.shields.io/badge/-Gemini-000000?style=flat-square&logo=googlegemini&logoColor=00FF41) ![OpenAI](https://img.shields.io/badge/-OpenAI-000000?style=flat-square&logo=openai&logoColor=00FF41) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=00FF41) ![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat-square&logo=langchain&logoColor=00FF41)
+
+**Database & DevOps**
+![Skills](https://skillicons.dev/icons?i=mysql,docker,git,github,vercel,railway&theme=dark)
+
+**Integrations**
+![Twilio](https://img.shields.io/badge/-Twilio-000000?style=flat-square&logo=twilio&logoColor=00FF41) ![n8n](https://img.shields.io/badge/-n8n-000000?style=flat-square&logo=n8n&logoColor=00FF41) ![Streamlit](https://img.shields.io/badge/-Streamlit-000000?style=flat-square&logo=streamlit&logoColor=00FF41)
 
 </div>
 
