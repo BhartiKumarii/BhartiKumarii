@@ -137,7 +137,7 @@ Finds the exact **moment** in a recording where something was said, by meaning r
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bharti%20Kumari-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/bharti-kumarii)
 [![X](https://img.shields.io/badge/X-Bharti__Kumari__-000000?style=for-the-badge&logo=x&logoColor=00FF41)](https://x.com/Bharti_Kumari_)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Bharti%20Kumari-000000?style=for-the-badge&logo=kaggle&logoColor=00FF41)](https://kaggle.com/bhartikumarii)
-[![LeetCode](https://img.shields.io/badge/LeetCode-bhartivishwakarma-000000?style=for-the-badge&logo=leetcode&logoColor=00FF41)](https://leetcode.com/u/bhartivishwakarma/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-bhartikumarii-000000?style=for-the-badge&logo=leetcode&logoColor=00FF41)](https://leetcode.com/u/bhartikumarii/)
 
 </div>
 
