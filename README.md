@@ -10,7 +10,7 @@ $ whoami
 
 $ cat mission.txt
 > Building intelligent systems that solve real-world problems.
-> Currently shipping: RAG pipelines, document intelligence, LLM-powered tools.
+> Currently shipping: RAG pipelines, semantic search, document intelligence.
 
 $ status --current
 > 🎓 BTech CSE (3rd Year)
@@ -71,10 +71,10 @@ Threat-intelligence and content-analysis platform. A layered pattern-matching en
 </td>
 <td width="50%" valign="top">
 
-### 📄 Resume Builder AI *(private repo)*
-Multi-profession AI resume builder with voice-driven data entry, OTP-based signup, and auto-translated output.
+### 🎥 [Semantic Video Search](https://github.com/BhartiKumarii/semantic-video-search)
+Finds the exact **moment** in a recording where something was said, by meaning rather than keywords. I ran controlled experiments on a 17-query golden set, changing one variable at a time across chunking, OCR fusion, embedding models, HNSW tuning and hybrid search. **Pure vector search won (recall@5 0.94)**, beating hybrid (0.82) and keyword (0.18).
 
-`Flask` `MySQL` `Google Gemini` `Twilio SMS` `SpeechRecognition` `deep-translator`
+`pgvector (HNSW)` `PostgreSQL` `sentence-transformers` `FastAPI` `RRF hybrid` `eval-driven`
 
 </td>
 </tr>
@@ -104,7 +104,7 @@ Multi-profession AI resume builder with voice-driven data entry, OTP-based signu
 ## 🎯 Currently Learning
 
 - 🧬 Advanced Machine Learning
-- 🤖 LLM Applications (RAG, Agents) — [`/RAG`](https://github.com/BhartiKumarii/RAG) · [`/LLM`](https://github.com/BhartiKumarii/LLM)
+- 🤖 LLM Applications (RAG, Agents) — [`/LLM`](https://github.com/BhartiKumarii/LLM) · [`/RAG`](https://github.com/BhartiKumarii/RAG)
 - 🏗️ System Design & Scalable APIs
 - 📓 Daily notes — [`/TIL`](https://github.com/BhartiKumarii/TIL) *(Today I Learned)*
 
